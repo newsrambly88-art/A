@@ -1,0 +1,94 @@
+{
+ "cell": {
+  "mcc": "999",
+  "mnc": "99",
+  "ra": "af_restricted"
+ },
+ "uid": "1794347245718-3777502",
+ "bundlename": "MU: Dark Epoch",
+ "platformextension": "ios_unity",
+ "timestamp": "1794347411.393005",
+ "att_status": 3,
+ "platform": "iPhone14,3",
+ "fb_anon_id": "XZC4B60DA5-FF9C-499B-8C8E-067F69261EF5",
+ "counter": "3",
+ "prev_session_dur": 43,
+ "consent_data": {
+  "manual": {
+   "gdpr_applies": false
+  }
+ },
+ "platform_extension_v2": {
+  "platform": "ios_native",
+  "version": "6.17.7"
+ },
+ "reinstallCounter": "0",
+ "advertiserId": "8A582B05-D391-4442-AA8E-1C1D8682F783",
+ "systemversion": "26.7.2",
+ "iaecounter": "31",
+ "meta": {
+  "host": {
+   "name": "appsflyersdk.com",
+   "prefix": "wn56gl."
+  },
+  "skad": {
+   "upcv": 1,
+   "sk_rules": {
+    "sk_exp": 1794433761.1360059,
+    "sk_rules": {
+     "wi": 24,
+     "s2s": true,
+     "frequency": 10
+    }
+   }
+  }
+ },
+ "JBDevice": false,
+ "date3": "2026-11-10_154919-0600",
+ "deviceData": {
+  "cpu_type": "ARM64",
+  "cpu_speed": "-1",
+  "osVersion": "99.9 (Build 99999)",
+  "ram_size": "999",
+  "cpu_64bits": "true",
+  "dim": {
+   "y_px": 2778,
+   "x_px": 1284
+  },
+  "brightness": "0.650000",
+  "device_model": "iPhone14,3",
+  "cpu_count": "9"
+ },
+ "sc_o": "p",
+ "open_referrer": "",
+ "currentCountrycode": "US",
+ "systemname": "iOS",
+ "date1": "2026-11-10_154725-0600",
+ "localizedmodel": "iPhone",
+ "ivc": true,
+ "af_events_api": "1",
+ "gcd_timing": 3137,
+ "bundleversion": "278",
+ "model": "iPhone",
+ "eventName": "Launched",
+ "cksm_v2": "b6f2e1f8c8da3a8f591b0c4f1a0d401b0c481b0d4e1b",
+ "dev_key": "u9kMsXhVmK5M8WvvxXkk8C",
+ "currentLanguage": "",
+ "wifi": false,
+ "vendorId": "37775024-1429-4C22-96D8-6A9F8CAB33E5",
+ "eventvalue": "",
+ "serverApiVersion": "6.17",
+ "af_timestamp": "1794347411393",
+ "advertiserIdEnabled": false,
+ "ref": "db7329eef4753e02f2f61ae54182f260365b4da62dc7cab86fc41cde012bd3f8;0;0;0;0;0",
+ "event": "Launched",
+ "date1_2": "2026-11-10_154725-0600",
+ "disk": "999/9999",
+ "sessioncounter": "2",
+ "date2": "2026-11-10_154919-0600",
+ "firstLaunchDate": "2026-11-10_154919-0600",
+ "originalAppsflyerId": "1794347245718-3777502",
+ "shortbundleversion": "1.60.08",
+ "timepassedsincelastlaunch": "47",
+ "bundleIdentifier": "com.global.mus.ios"
+}
