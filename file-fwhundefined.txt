@@ -1,0 +1,136 @@
+{
+  "name": "af-ios-launched-dicedreams",
+  "method": "POST",
+  "url": "https://att.launches.appsflyersdk.com/api/v6.17/iosevent?app_id=1484468651&buildnumber=6.17.7",
+  "headers": {
+    "Host": "att.launches.appsflyersdk.com",
+    "Content-Type": "application/octet-stream",
+    "x-emb-id": "95C6A2BE-9168-49BB-A1A0-F510CD5A1009",
+    "x-emb-st": "1794378704161",
+    "User-Agent": "DiceDreams/34761 CFNetwork/3860.700.2 Darwin/25.6.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+  },
+  "body": {
+    "mode": "encrypt-json",
+    "cipher": "AES-128-CBC",
+    "padding": "pkcs7",
+    "key_hex": "84adf6ec41acb6cbeb349d0a7078f0d2",
+    "key_password": "X3sgfYhYXWhDoD8DhW2aaJ",
+    "iv": "random-16",
+    "trailer": "0x00*8",
+    "framing": "ciphertext | iv | trailer",
+    "encoding": "raw-octet-stream",
+    "value": {
+      "firstLaunchDate": "2026-11-10_000250-0500",
+      "platform_extension_v2": {
+        "platform": "ios_unity",
+        "version": "6.17.71"
+      },
+      "meta": {
+        "host": {
+          "name": "appsflyersdk.com",
+          "prefix": "raucnl."
+        },
+        "skad": {
+          "upcv": 0,
+          "sk_rules": {
+            "sk_exp": 1794373370.732415,
+            "sk_rules": {
+              "wi": 24,
+              "s2s": true,
+              "frequency": 10
+            }
+          }
+        }
+      },
+      "event": "Launched",
+      "cell": {
+        "mcc": "999",
+        "mnc": "99",
+        "ra": "af_restricted"
+      },
+      "last_install_date": 1794268800,
+      "timepassedsincelastlaunch": "69",
+      "ref": "db7329eef4753e02f2f61ae54182f260365b4da62dc7cab86fc41cde012bd3f8;0;0;0;0;0",
+      "systemversion": "26.6.2",
+      "platform": "iPhone15,4",
+      "prev_session_dur": 52,
+      "disk": "999/9999",
+      "af_timestamp": "1794287039186",
+      "platformextension": "ios_unity",
+      "date1": "2026-11-10_000049-0500",
+      "cksm_v2": "0b41d22bd2ad21b4591b0c4f1a0d401b0c481b0d4e1b",
+      "wifi": false,
+      "gcd_timing": 2932,
+      "serverApiVersion": "6.17",
+      "asa_data": {
+        "token": "3oU1OKZ1Q08bMC1KarvPCHmd8zGO3oBGyJLR8PzxwRgZ+K5oYgMFYQJIaHdT6xKpDQd960yb4EU0eC62rbH5/UMomLiJOcbCagAAAVADAAABOAAAAIB8CBaddpyOSPii21M4ScgwojURNsNA8SrpXFnMUwXz4jjBivq+7oPzktmPezMzwtAic+A21YicEg87gbZq1WcUfcfksoiWmvrtml7fdYikJmdnazuLWnLxVj/F/MygB+JWgZDecuhsTcd9VFD1fEFKWbT+Y6Wet57qkffU68kZKQAAABJB1eqT/fK8PdXjeaE6570doT8AAACfATreY3i9T6m9CAWS+Iq9irGMr9FHAAAAhgUFDDBHtg1ST7kaozvJC/aNkGryhXPZj90Qs1lV29a1JoAVFj2b9FCMo2xo4js7rOQD/lPTE1U40EudfUP05CXVvAxxFHj5holuDxIVKVJ6PzLCMiNIXB5KCuuUkLJZou9uwZmXMsZozPN0+z/FrKYEgHjfkVVPlNpGTZ7grhauUoqH9R+dAAAAAAAAAAAAAAAAAAABBEsTAQA="
+      },
+      "att_status": 3,
+      "currentLanguage": "",
+      "JBDevice": false,
+      "localizedmodel": "iPhone",
+      "eventvalue": "",
+      "bundleIdentifier": "com.superplaystudios.dicedreams",
+      "deviceData": {
+        "cpu_type": "ARM64",
+        "cpu_speed": "-1",
+        "osVersion": "99.9 (Build 99999)",
+        "ram_size": "999",
+        "cpu_64bits": "true",
+        "dim": {
+          "y_px": 2556,
+          "x_px": 1179
+        },
+        "brightness": "0.150000",
+        "device_model": "iPhone15,4",
+        "cpu_count": "9"
+      },
+      "date2": "2026-11-10_000358-0500",
+      "currentCountrycode": "US",
+      "sk_rules": {
+        "sk_exp": 1794373370.732415,
+        "sk_rules": {
+          "wi": 24,
+          "s2s": true,
+          "frequency": 10
+        }
+      },
+      "shortbundleversion": "1.115.0",
+      "systemname": "iOS",
+      "iaecounter": "1",
+      "af_events_api": "1",
+      "sc_o": "p",
+      "onelink_ver": "2",
+      "onelink_id": "TzTz",
+      "open_referrer": "",
+      "dev_key": "Hn5qYjVAaRNJYDcwF4LaWF",
+      "uid": "1794286849389-2082985",
+      "vendorId": "20CE8298-571D-48EC-A175-3E5C965174C2",
+      "counter": "2",
+      "ivc": true,
+      "date1_2": "2026-11-10_000049-0500",
+      "reinstallCounter": "0",
+      "timestamp": "1794287039.186412",
+      "date3": "2026-11-10_000248-0500",
+      "sessioncounter": "3",
+      "originalAppsflyerId": "1794286849389-2082985",
+      "fb_anon_id": "XZ8A27EF20-ED5B-48FA-8A8C-8153A5855570",
+      "model": "iPhone",
+      "bundlename": "Dice Dreams",
+      "advertiserId": "C8F859B3-9CDE-4B14-BB43-B44B1AD5C26F",
+      "eventName": "Launched",
+      "bundleversion": "34761",
+      "advertiserIdEnabled": false
+    }
+  },
+  "regenerate": [
+    "timestamp", "af_timestamp", "date1", "date1_2", "date2", "date3",
+    "firstLaunchDate", "timepassedsincelastlaunch", "gcd_timing",
+    "x-emb-id", "x-emb-st"
+  ],
+  "expect": { "status": 200, "body": "ok" }
+}
