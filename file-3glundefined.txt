@@ -1,0 +1,115 @@
+{
+  "advertiserIdEnabled": false,
+  "platform_extension_v2": {
+    "platform": "ios_unity",
+    "version": "6.18.1"
+  },
+  "firstLaunchDate": "2026-11-11_114952-0600",
+  "event": "Launched",
+  "cell": {
+    "mcc": "999",
+    "mnc": "99",
+    "ra": "af_restricted"
+  },
+  "timepassedsincelastlaunch": "531",
+  "ref": "db7329eef4753e02f2f61ae54182f260365b4da62dc7cab86fc41cde012bd3f8;0;0;0;0;0",
+  "systemversion": "26.7.2",
+  "platform": "iPhone14,3",
+  "prev_session_dur": 57,
+  "disk": "999/9999",
+  "af_timestamp": "1794420000885",
+  "platformextension": "ios_unity",
+  "date1": "2026-11-11_114757-0600",
+  "cksm_v2": "c2bb7edc0ef4b466591b0c4f1a0d401b0c481b0d4e1b",
+  "wifi": false,
+  "gcd_timing": 8953,
+  "serverApiVersion": "6.18",
+  "att_status": 3,
+  "currentLanguage": "",
+  "JBDevice": false,
+  "localizedmodel": "iPhone",
+  "eventvalue": "",
+  "bundleIdentifier": "com.superplaystudios.dominodreams",
+  "deviceData": {
+    "cpu_type": "ARM64",
+    "cpu_speed": "-1",
+    "osVersion": "99.9 (Build 99999)",
+    "ram_size": "999",
+    "cpu_64bits": "true",
+    "dim": {
+      "y_px": 2778,
+      "x_px": 1284
+    },
+    "brightness": "0.550000",
+    "device_model": "iPhone14,3",
+    "cpu_count": "9"
+  },
+  "date2": "2026-11-11_120000-0600",
+  "currentCountrycode": "US",
+  "sk_rules": {
+    "sk_exp": 1797443397.334132,
+    "sk_rules": {
+      "wi": 840,
+      "s2s": true,
+      "frequency": 10
+    }
+  },
+  "appUID": "5XML1-BMBZK-H5VYW-TZ6YA-PXW3N",
+  "shortbundleversion": "1.63.1",
+  "systemname": "iOS",
+  "iaecounter": "0",
+  "af_events_api": "1",
+  "sc_o": "fu",
+  "onelink_ver": "8",
+  "onelink_id": "dbMT",
+  "open_referrer": "",
+  "dev_key": "Hn5qYjVAaRNJYDcwF4LaWF",
+  "uid": "1794169783043-1227840",
+  "vendorId": "12D27BE8-407E-4DC7-BC65-6EA6DAB67BF0",
+  "counter": "6",
+  "ivc": true,
+  "date1_2": "2026-11-11_114757-0600",
+  "reinstallCounter": "0",
+  "timestamp": "1794420000.885316",
+  "sessioncounter": "8",
+  "date3": "2026-11-11_114948-0600",
+  "originalAppsflyerId": "1794169783043-1227840",
+  "fb_anon_id": "XZD63005DD-21D1-4D45-9B6E-7CBA830074FE",
+  "model": "iPhone",
+  "bundlename": "Domino Dreams",
+  "consent_data": {
+    "manual": {
+      "ad_user_data_enabled": true,
+      "ad_personalization_enabled": true,
+      "gdpr_applies": true
+    }
+  },
+  "advertiserId": "2DDB6693-6A7A-4270-9220-EE0D5D152D18",
+  "eventName": "Launched",
+  "bundleversion": "10575",
+  "meta": {
+    "host": {
+      "name": "appsflyersdk.com",
+      "prefix": "wgrcre."
+    },
+    "rc": {
+      "sig": "success",
+      "c_ver": "default.v1.1637149529",
+      "delay": 1369,
+      "res_code": 200,
+      "latency": 1369,
+      "cdn_token": "e9488af17c0925c026a540a904de3c9dc6f0b294da35405aab7a453f37995abf"
+    },
+    "skad": {
+      "upcv": 27,
+      "sk_rules": {
+        "sk_exp": 1797443397.334132,
+        "sk_rules": {
+          "wi": 840,
+          "s2s": true,
+          "frequency": 10
+        }
+      }
+    }
+  }
+}
